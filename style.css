@@ -1,0 +1,76 @@
+#bb{
+	background-color:#b4b4b4;
+}
+		
+#bb head1 tb donkey img {
+	width:500px;
+	margin:0 auto;
+	
+}
+#head1 h1 {
+	border: solid 5px white;
+	background-color:#6d3500;
+	font-family:Georgia;
+	color:white ;
+	text-align:center;
+	padding:50px;
+	margin:20px 0 0;
+	word-spacing:50px;
+	box-shadow: 10px 10px;
+	
+	
+}
+#tb {
+	background-color:#6d3500;
+	color:white;
+	border: solid 5px white;
+        margin:100px 10px 50px 10px ;
+	box-shadow: 10px 10px;
+	width:1200px
+}
+a{
+	color:white;
+}
+#donkey{
+	word-spacing:2px;
+
+}
+#he2{
+	border: solid 5px white;
+	background-color:#6d3500;
+	color:white;
+	box-shadow: 10px 10px;
+	width:500px
+	margin:0 auto;
+	margin:100px 0 200px;
+	
+
+} 
+img{
+	border-radius: 50%;
+	border:solid 5px #6d3500 ;
+	margin:0 0 200px 0 ;
+	width:500px;
+	margin:0 auto;
+}
+#foot {
+	background-color: black;
+	width:0
+	padding:10px
+	text-align:center;
+	margin:10px 0 0 0;
+	
+}
+#foot p {
+	color:white;
+	padding:10px;
+	text-align:center
+
+}
+#im{
+	width:500px;
+	margin:0 auto;
+}
+#he2 p  {
+	text-align:center;
+}
